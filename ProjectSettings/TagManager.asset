@@ -15,6 +15,7 @@ TagManager:
   - Window
   - Selection
   - SceneItem
+  - RadialFill
   layers:
   - Default
   - TransparentFX
